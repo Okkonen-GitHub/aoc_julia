@@ -1,0 +1,4 @@
+name = "julia23"
+uuid = "50ec1d1b-1747-4d0c-994d-43122842f211"
+authors = ["Okko <okko.contact@proton.me>"]
+version = "0.1.0"
